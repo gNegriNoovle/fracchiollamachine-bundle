@@ -1,0 +1,6 @@
+code: machine-type-form-widget
+titles:
+  en: Machine Type Form Widget
+  it: Machine Type Form Widget
+group: free
+customUiPath: machine-type-form-widget.ftl

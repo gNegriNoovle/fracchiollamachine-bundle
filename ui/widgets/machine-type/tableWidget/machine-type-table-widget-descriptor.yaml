@@ -1,0 +1,6 @@
+code: machine-type-table-widget
+titles:
+  en: Machine Type Table Widget
+  it: Machine Type Table Widget
+group: free
+customUiPath: machine-type-table-widget.ftl

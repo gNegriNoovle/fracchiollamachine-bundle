@@ -1,0 +1,8 @@
+image: gioelenegri/fracchiollamachine:0.0.1-SNAPSHOT
+dbms: postgresql
+healthCheckPath: "/management/health"
+roles:
+  - "fracchiollamachine-admin"
+  - "machine-admin"
+  - "machine-type-admin"
+# entando-needle-descriptor-add-roles - Entando blueprint will add roles here

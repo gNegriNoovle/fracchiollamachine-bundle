@@ -1,0 +1,6 @@
+code: machine-details-widget
+titles:
+  en: Machine Details Widget
+  it: Machine Details Widget
+group: free
+customUiPath: machine-details-widget.ftl
