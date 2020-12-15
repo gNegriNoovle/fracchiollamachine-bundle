@@ -1,0 +1,16 @@
+code: fracchiollamachine-bundle
+description: This is the fracchiollamachine bundle
+
+components:
+  plugins:
+    - plugins/fracchiollamachine-plugin.yaml
+
+  widgets:
+    - ui/widgets/machine/tableWidget/machine-table-widget-descriptor.yaml
+    - ui/widgets/machine/detailsWidget/machine-details-widget-descriptor.yaml
+    - ui/widgets/machine/formWidget/machine-form-widget-descriptor.yaml
+    - ui/widgets/machine-type/tableWidget/machine-type-table-widget-descriptor.yaml
+    - ui/widgets/machine-type/detailsWidget/machine-type-details-widget-descriptor.yaml
+    - ui/widgets/machine-type/formWidget/machine-type-form-widget-descriptor.yaml
+# entando-needle-descriptor-add-widgets - Entando blueprint will add widget bundle files here
+
